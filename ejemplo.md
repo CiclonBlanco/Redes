@@ -35,7 +35,7 @@ El nuevo juego del que se habla actualmente, salio la beta hace relativamente po
 https://www.reachthefinals.com/
 
 ---
-**![Alt text](qr-proyecto.jpg "Shooters")**
+![Alt text](qr-proyecto.jpg "Shooters")
 ---
 
 # Los mejores juegos de eSports
