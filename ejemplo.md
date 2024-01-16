@@ -1,5 +1,5 @@
 # Mejores Shooters 2024
-Hoy hablaremos de los mejores juegos tipo shooter que hay en el mercado actualmente.
+Hoy hablaremos de los **mejores** juegos tipo shooter que hay en el mercado actualmente.
 Aqui empezamos con una lista de los mejores que hay:
 ## **1- Valorant**
 
